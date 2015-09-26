@@ -45,8 +45,10 @@
     <Compile Include="factories\TigerFactory.cs" />
     <Compile Include="factories\ZooFactory.cs" />
     <Compile Include="interfaces\IAnimalProduct.cs" />
+    <Compile Include="products\Lion.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tiger.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
