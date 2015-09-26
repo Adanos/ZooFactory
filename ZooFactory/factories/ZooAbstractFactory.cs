@@ -7,7 +7,7 @@ using ZooFactory.interfaces;
 
 namespace ZooFactory.factories
 {
-	abstract class ZooFactory
+	abstract class ZooAbstractFactory
 	{
 		public abstract IAnimalProduct createProduct();
 	}

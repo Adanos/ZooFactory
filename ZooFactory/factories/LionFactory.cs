@@ -8,7 +8,7 @@ using ZooFactory.products;
 
 namespace ZooFactory.factories
 {
-	class LionFactory : ZooFactory
+	class LionFactory : ZooAbstractFactory
 	{
 		public override IAnimalProduct createProduct()
 		{
