@@ -43,7 +43,7 @@
   <ItemGroup>
     <Compile Include="factories\LionFactory.cs" />
     <Compile Include="factories\TigerFactory.cs" />
-    <Compile Include="factories\ZooFactory.cs" />
+    <Compile Include="factories\ZooAbstractFactory.cs" />
     <Compile Include="interfaces\IAnimalProduct.cs" />
     <Compile Include="products\Lion.cs" />
     <Compile Include="Program.cs" />
